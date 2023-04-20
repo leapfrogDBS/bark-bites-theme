@@ -1,0 +1,7 @@
+{% for collection in collections %}
+  <div class="sidebar-collection">
+    <h3 class="sidebar-collection-title">
+      <a href="{{ collection.url }}">{{ collection.title }}</a>
+    </h3>
+  </div>
+{% endfor %}
