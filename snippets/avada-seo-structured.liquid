@@ -191,6 +191,10 @@
   {%- assign sameLinks = sameLinks | append: ':::' -%}
   {%- assign sameLinks = sameLinks | append: settings.social_facebook_link -%}
   
+    {%- else -%}
+    {%- assign sameLinks = sameLinks | append: ':::' -%}
+    {%- assign sameLinks = sameLinks | append: 'https://www.facebook.com/people/Bark-Bites-Natural-Treats/100086821017309/' -%}
+    
   {%- endif -%}
 
   {%- if settings.social_pinterest_link and settings.social_pinterest_link != '' -%}
