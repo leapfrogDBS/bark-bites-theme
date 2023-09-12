@@ -149,14 +149,32 @@
 
     ],
     "blocks": {
-      "2153490007123654574": {
-        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
-        "disabled": true,
+      "2965712708760319418": {
+        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
+        "disabled": false,
         "settings": {
         }
       },
-      "2965712708760319418": {
-        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "341186785192672687": {
+        "type": "shopify:\/\/apps\/seal-subscriptions\/blocks\/subscription-script-append\/13b25004-a140-4ab7-b5fe-29918f759699",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4275615285897611771": {
+        "type": "shopify:\/\/apps\/fera\/blocks\/embed\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2153490007123654574": {
+        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
         "disabled": false,
         "settings": {
         }
