@@ -40,33 +40,6 @@
         "show_text_below": false
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Top Picks for Your Furry Friend",
-        "heading_size": "h1",
-        "description": "<p>Our carefully curated selection includes premium natural dog treats, delicious gourmet sausages, healthy allergy-friendly snacks, and more. Made with only the highest quality ingredients, these products are sure to delight even the most discerning pup. Shop now and give your furry friend the best!<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 68,
-        "padding_bottom": 64
-      }
-    },
     "c0be658f-4942-4007-9f37-bf3e9024fc12": {
       "type": "featured-collection",
       "settings": {
@@ -92,6 +65,33 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Picks for Your Furry Friend",
+        "heading_size": "h1",
+        "description": "<p>Our carefully curated selection includes premium natural dog treats, delicious gourmet sausages, healthy allergy-friendly snacks, and more. Made with only the highest quality ingredients, these products are sure to delight even the most discerning pup. Shop now and give your furry friend the best!<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 68,
+        "padding_bottom": 64
       }
     },
     "57901e0d-5069-4719-bb0f-084a13a82be9": {
@@ -340,8 +340,8 @@
   },
   "order": [
     "image_banner",
-    "featured_collection",
     "c0be658f-4942-4007-9f37-bf3e9024fc12",
+    "featured_collection",
     "57901e0d-5069-4719-bb0f-084a13a82be9",
     "f2b3ac1f-b100-4f97-b8e5-fcfc75accf5a",
     "ae35b1c8-9383-4ba5-91ae-5906d724e61d",
