@@ -61,6 +61,16 @@
             "link": ""
           }
         },
+        "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Natural.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-2": {
           "type": "column",
           "settings": {
@@ -71,10 +81,30 @@
             "link": ""
           }
         },
-        "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-3": {
+        "f619c84e-0138-4d31-abce-477615a42489": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Natural.png",
+            "image": "shopify:\/\/shop_images\/highly-digestable.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "784a3237-b72c-4539-9e65-0d70d955c849": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dental-care.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cf2e1cac-8459-4429-990b-77e9c227905a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skin-and-coat.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -84,8 +114,11 @@
       },
       "block_order": [
         "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-1",
+        "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-3",
         "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-2",
-        "template--18674079793431__709db93c-d8b2-46cb-be39-2a8ccd7d6514-column-3"
+        "f619c84e-0138-4d31-abce-477615a42489",
+        "784a3237-b72c-4539-9e65-0d70d955c849",
+        "cf2e1cac-8459-4429-990b-77e9c227905a"
       ],
       "settings": {
         "title": "",
@@ -101,7 +134,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 12
       }
     },
     "c0be658f-4942-4007-9f37-bf3e9024fc12": {
