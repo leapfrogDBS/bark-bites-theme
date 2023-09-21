@@ -6,8 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Discover Our Newest Arrivals",
+            "heading": "100% Natural, Grain-Free Treats, Sourced Responsibly",
             "heading_size": "h0"
+          }
+        },
+        "fd51370a-2ce6-4be6-951e-6a50b53a32e3": {
+          "type": "text",
+          "settings": {
+            "text": "Proudly offering Natural Treats that stand out for their quality, crafted exclusively from British and EU-approved ingredients. Our selection is 100% natural, grain-free, and rawhide-free, providing not just wholesome goodness but also supporting local farmers and the UK meat industry.",
+            "text_style": "body"
           }
         },
         "button": {
@@ -24,13 +31,14 @@
       },
       "block_order": [
         "heading",
+        "fd51370a-2ce6-4be6-951e-6a50b53a32e3",
         "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-samson-katt-5255554_1.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 40,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
