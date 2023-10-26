@@ -1,1 +1,176 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","settings":{"image_height":"adapt"}},"title":{"type":"title","settings":{"blog_show_date":true,"blog_show_author":false}},"share":{"type":"share","settings":{"share_label":"Share"}},"content":{"type":"content","settings":{}}},"block_order":["featured_image","title","share","content"],"settings":{}},"92dd1174-853e-4ebe-ab22-c81436eefd5a":{"type":"image-banner","blocks":{"a4eea14d-dd21-4746-bb8c-67d35fb2d0e4":{"type":"heading","settings":{"heading":"Treat your pet to something special! Visit our online store to shop our selection of high-quality, all-natural products that your furry friend will love","heading_size":"h1"}},"template--18582554149143__92dd1174-853e-4ebe-ab22-c81436eefd5a-16818289096be340cd-2":{"type":"buttons","settings":{"button_label_1":"Visit Shop","button_link_1":"shopify:\/\/collections","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["a4eea14d-dd21-4746-bb8c-67d35fb2d0e4","template--18582554149143__92dd1174-853e-4ebe-ab22-c81436eefd5a-16818289096be340cd-2"],"settings":{"image":"shopify:\/\/shop_images\/doodle-dog-mouth.jpg","image_overlay_opacity":60,"image_height":"small","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"accent-1","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":false}},"f74e9b18-5673-4950-9da0-48adc1a6b2de":{"type":"featured-collection","settings":{"title":"Featured collection","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"allergy-friendly-treats-1","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":56,"padding_bottom":52}},"e6f65d9b-c2ed-4162-ace9-f896c31aa506":{"type":"newsletter","blocks":{"template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-0":{"type":"heading","settings":{"heading":"Subscribe to our newsletter","heading_size":"h1"}},"template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-1":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new insights and exclusive offers.<\/p>"}},"template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-2":{"type":"email_form","settings":{}}},"block_order":["template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-0","template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-1","template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-2"],"settings":{"color_scheme":"accent-2","full_width":true,"padding_top":40,"padding_bottom":52}},"168182862732583d8a":{"type":"apps","blocks":{"83a14512-b490-484e-a1da-024ee00619b2":{"type":"shopify:\/\/apps\/fera-product-reviews-app\/blocks\/all_reviews\/2fbfcfa7-8a04-479f-89a8-0621fa099c51","settings":{"heading":"Customer Reviews","layout":"grid","star_color":"#FFD84F","types_to_show":"both"}}},"block_order":["83a14512-b490-484e-a1da-024ee00619b2"],"settings":{"include_margins":true}},"168182866462c2122d":{"type":"apps","settings":{"include_margins":true}}},"order":["main","92dd1174-853e-4ebe-ab22-c81436eefd5a","f74e9b18-5673-4950-9da0-48adc1a6b2de","e6f65d9b-c2ed-4162-ace9-f896c31aa506","168182862732583d8a","168182866462c2122d"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+      }
+    },
+    "92dd1174-853e-4ebe-ab22-c81436eefd5a": {
+      "type": "image-banner",
+      "blocks": {
+        "a4eea14d-dd21-4746-bb8c-67d35fb2d0e4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Treat your pet to something special! Visit our online store to shop our selection of high-quality, all-natural products that your furry friend will love",
+            "heading_size": "h1"
+          }
+        },
+        "template--18582554149143__92dd1174-853e-4ebe-ab22-c81436eefd5a-16818289096be340cd-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Visit Shop",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "a4eea14d-dd21-4746-bb8c-67d35fb2d0e4",
+        "template--18582554149143__92dd1174-853e-4ebe-ab22-c81436eefd5a-16818289096be340cd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/doodle-dog-mouth.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "f74e9b18-5673-4950-9da0-48adc1a6b2de": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "allergy-friendly-treats",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 52
+      }
+    },
+    "e6f65d9b-c2ed-4162-ace9-f896c31aa506": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new insights and exclusive offers.<\/p>"
+          }
+        },
+        "template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-0",
+        "template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-1",
+        "template--18582554149143__e6f65d9b-c2ed-4162-ace9-f896c31aa506-168182839331bbe9e1-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "168182862732583d8a": {
+      "type": "apps",
+      "blocks": {
+        "83a14512-b490-484e-a1da-024ee00619b2": {
+          "type": "shopify:\/\/apps\/fera\/blocks\/all_reviews\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "heading": "Customer Reviews",
+            "layout": "grid",
+            "star_color": "#FFD84F",
+            "types_to_show": "both"
+          }
+        }
+      },
+      "block_order": [
+        "83a14512-b490-484e-a1da-024ee00619b2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "168182866462c2122d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "92dd1174-853e-4ebe-ab22-c81436eefd5a",
+    "f74e9b18-5673-4950-9da0-48adc1a6b2de",
+    "e6f65d9b-c2ed-4162-ace9-f896c31aa506",
+    "168182862732583d8a",
+    "168182866462c2122d"
+  ]
+}
