@@ -1,1 +1,222 @@
-{"sections":{"main":{"type":"main-list-collections","disabled":true,"settings":{"title":"Collections","sort":"alphabetical","image_ratio":"square","columns_desktop":3,"columns_mobile":"2"}},"8d20d706-e582-4e1d-811c-22c3c0ef8378":{"type":"rich-text","blocks":{"45e7c09c-a126-4f17-9cb6-a836c4970f1d":{"type":"heading","settings":{"heading":"Discover Our Wide Range of Collections","heading_size":"h1"}},"template--18582554575127__8d20d706-e582-4e1d-811c-22c3c0ef8378-168182765056074766-1":{"type":"text","settings":{"text":"<p>Finding the right natural treats for your dog has never been easier! Our collections are organized by protein source and benefit, so you can easily discover new options that meet your furry friend's needs.<\/p>"}}},"block_order":["45e7c09c-a126-4f17-9cb6-a836c4970f1d","template--18582554575127__8d20d706-e582-4e1d-811c-22c3c0ef8378-168182765056074766-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":52,"padding_bottom":52}},"ae75cdfa-2940-423c-b186-98d0e39efa36":{"type":"collection-list","blocks":{"template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-0":{"type":"featured_collection","settings":{"collection":"allergy-friendly-treats-1"}},"69331f46-f808-4300-ac3e-4dea32cc817e":{"type":"featured_collection","settings":{"collection":"dental-health"}},"ba8e0d30-0585-4cfa-9ede-c303d9c14922":{"type":"featured_collection","settings":{"collection":"allergy-friendly-treats"}},"78aeeb47-5f7e-429b-a76c-fb24a5e79936":{"type":"featured_collection","settings":{"collection":"high-protein-snacks-1"}},"9a3f087f-b82d-4ab3-9d23-e6035bf31c6a":{"type":"featured_collection","settings":{"collection":"joint-bone-health"}},"d9d40213-818f-4b5c-8f73-ee3fa1fa63a6":{"type":"featured_collection","settings":{"collection":"long-lasting-chews"}},"template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-1":{"type":"featured_collection","settings":{"collection":"low-odour-treats"}},"template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-2":{"type":"featured_collection","settings":{"collection":"natural-de-wormers"}},"109e5a5e-0599-4bde-84b1-6e90cdf34712":{"type":"featured_collection","settings":{"collection":"high-protein-snacks"}},"60ba306a-4d93-4658-a6cc-999d345b20b4":{"type":"featured_collection","settings":{"collection":"small-dog-chews"}},"bcbfd954-91b3-4484-bc84-47457c8bf24a":{"type":"featured_collection","settings":{"collection":"soft-chews-for-sensitive-teeth"}},"1a78b3e2-d3cd-4dbb-b2da-0ef349cac2ca":{"type":"featured_collection","settings":{"collection":"training-treats"}}},"block_order":["template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-0","69331f46-f808-4300-ac3e-4dea32cc817e","ba8e0d30-0585-4cfa-9ede-c303d9c14922","78aeeb47-5f7e-429b-a76c-fb24a5e79936","9a3f087f-b82d-4ab3-9d23-e6035bf31c6a","d9d40213-818f-4b5c-8f73-ee3fa1fa63a6","template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-1","template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-2","109e5a5e-0599-4bde-84b1-6e90cdf34712","60ba306a-4d93-4658-a6cc-999d345b20b4","bcbfd954-91b3-4484-bc84-47457c8bf24a","1a78b3e2-d3cd-4dbb-b2da-0ef349cac2ca"],"settings":{"title":"Benefit-Based Collections: Shop by Purpose","heading_size":"h1","image_ratio":"square","columns_desktop":4,"color_scheme":"accent-2","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":56,"padding_bottom":56}},"81932c5e-2ae1-4439-a0de-9038c876c25f":{"type":"collection-list","blocks":{"060affaa-33e9-4941-a17a-203d23fed228":{"type":"featured_collection","settings":{"collection":"beef-treats"}},"79e9645c-5751-4758-aa2d-31f188c40cfa":{"type":"featured_collection","settings":{"collection":"buffalo-treats"}},"c6a5c530-c805-43d5-bba7-2efc3750baa6":{"type":"featured_collection","settings":{"collection":"chicken-treats"}},"ab7b71e2-6065-4553-a7b3-bbac9c587a43":{"type":"featured_collection","settings":{"collection":"fish-treats"}},"b9873555-5cc3-4f84-ad08-136a3339bd99":{"type":"featured_collection","settings":{"collection":"lamb-treats"}},"5f72f57d-af7e-421b-869d-b08fe08cfbf8":{"type":"featured_collection","settings":{"collection":"pork-treats"}},"18140620-13a9-432e-a9e5-0fef0de54f4a":{"type":"featured_collection","settings":{"collection":"venison-treats"}}},"block_order":["060affaa-33e9-4941-a17a-203d23fed228","79e9645c-5751-4758-aa2d-31f188c40cfa","c6a5c530-c805-43d5-bba7-2efc3750baa6","ab7b71e2-6065-4553-a7b3-bbac9c587a43","b9873555-5cc3-4f84-ad08-136a3339bd99","5f72f57d-af7e-421b-869d-b08fe08cfbf8","18140620-13a9-432e-a9e5-0fef0de54f4a"],"settings":{"title":"Protein-Sourced Collections: Shop by Ingredient","heading_size":"h1","image_ratio":"square","columns_desktop":4,"color_scheme":"background-1","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":56,"padding_bottom":56}}},"order":["main","8d20d706-e582-4e1d-811c-22c3c0ef8378","ae75cdfa-2940-423c-b186-98d0e39efa36","81932c5e-2ae1-4439-a0de-9038c876c25f"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
+      }
+    },
+    "8d20d706-e582-4e1d-811c-22c3c0ef8378": {
+      "type": "rich-text",
+      "blocks": {
+        "45e7c09c-a126-4f17-9cb6-a836c4970f1d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Our Wide Range of Collections",
+            "heading_size": "h1"
+          }
+        },
+        "template--18582554575127__8d20d706-e582-4e1d-811c-22c3c0ef8378-168182765056074766-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Finding the right natural treats for your dog has never been easier! Our collections are organized by protein source and benefit, so you can easily discover new options that meet your furry friend's needs.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "45e7c09c-a126-4f17-9cb6-a836c4970f1d",
+        "template--18582554575127__8d20d706-e582-4e1d-811c-22c3c0ef8378-168182765056074766-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "ae75cdfa-2940-423c-b186-98d0e39efa36": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "allergy-friendly-treats-1"
+          }
+        },
+        "69331f46-f808-4300-ac3e-4dea32cc817e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dental-health"
+          }
+        },
+        "ba8e0d30-0585-4cfa-9ede-c303d9c14922": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gourmet-treats"
+          }
+        },
+        "78aeeb47-5f7e-429b-a76c-fb24a5e79936": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "high-protein-snacks-1"
+          }
+        },
+        "9a3f087f-b82d-4ab3-9d23-e6035bf31c6a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "joint-bone-health"
+          }
+        },
+        "d9d40213-818f-4b5c-8f73-ee3fa1fa63a6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "long-lasting-chews"
+          }
+        },
+        "template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "low-odour-treats"
+          }
+        },
+        "template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "natural-de-wormers"
+          }
+        },
+        "109e5a5e-0599-4bde-84b1-6e90cdf34712": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "high-protein-snacks"
+          }
+        },
+        "60ba306a-4d93-4658-a6cc-999d345b20b4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "small-dog-chews"
+          }
+        },
+        "bcbfd954-91b3-4484-bc84-47457c8bf24a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "soft-chews-for-sensitive-teeth"
+          }
+        },
+        "1a78b3e2-d3cd-4dbb-b2da-0ef349cac2ca": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "training-treats"
+          }
+        }
+      },
+      "block_order": [
+        "template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-0",
+        "69331f46-f808-4300-ac3e-4dea32cc817e",
+        "ba8e0d30-0585-4cfa-9ede-c303d9c14922",
+        "78aeeb47-5f7e-429b-a76c-fb24a5e79936",
+        "9a3f087f-b82d-4ab3-9d23-e6035bf31c6a",
+        "d9d40213-818f-4b5c-8f73-ee3fa1fa63a6",
+        "template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-1",
+        "template--18582554575127__ae75cdfa-2940-423c-b186-98d0e39efa36-1681827261fce10b8a-2",
+        "109e5a5e-0599-4bde-84b1-6e90cdf34712",
+        "60ba306a-4d93-4658-a6cc-999d345b20b4",
+        "bcbfd954-91b3-4484-bc84-47457c8bf24a",
+        "1a78b3e2-d3cd-4dbb-b2da-0ef349cac2ca"
+      ],
+      "settings": {
+        "title": "Benefit-Based Collections: Shop by Purpose",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "81932c5e-2ae1-4439-a0de-9038c876c25f": {
+      "type": "collection-list",
+      "blocks": {
+        "060affaa-33e9-4941-a17a-203d23fed228": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beef-treats"
+          }
+        },
+        "79e9645c-5751-4758-aa2d-31f188c40cfa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "buffalo-treats"
+          }
+        },
+        "c6a5c530-c805-43d5-bba7-2efc3750baa6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chicken-treats"
+          }
+        },
+        "ab7b71e2-6065-4553-a7b3-bbac9c587a43": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fish-treats"
+          }
+        },
+        "b9873555-5cc3-4f84-ad08-136a3339bd99": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lamb-treats"
+          }
+        },
+        "5f72f57d-af7e-421b-869d-b08fe08cfbf8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pork-treats"
+          }
+        },
+        "18140620-13a9-432e-a9e5-0fef0de54f4a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "venison-treats"
+          }
+        }
+      },
+      "block_order": [
+        "060affaa-33e9-4941-a17a-203d23fed228",
+        "79e9645c-5751-4758-aa2d-31f188c40cfa",
+        "c6a5c530-c805-43d5-bba7-2efc3750baa6",
+        "ab7b71e2-6065-4553-a7b3-bbac9c587a43",
+        "b9873555-5cc3-4f84-ad08-136a3339bd99",
+        "5f72f57d-af7e-421b-869d-b08fe08cfbf8",
+        "18140620-13a9-432e-a9e5-0fef0de54f4a"
+      ],
+      "settings": {
+        "title": "Protein-Sourced Collections: Shop by Ingredient",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8d20d706-e582-4e1d-811c-22c3c0ef8378",
+    "ae75cdfa-2940-423c-b186-98d0e39efa36",
+    "81932c5e-2ae1-4439-a0de-9038c876c25f"
+  ]
+}
