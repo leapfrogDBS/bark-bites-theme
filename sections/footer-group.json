@@ -11,10 +11,18 @@
             "heading": "",
             "menu": "footer"
           }
+        },
+        "38cbdc19-ec2f-42ab-bcdd-f53f90db3bfb": {
+          "type": "text",
+          "settings": {
+            "heading": "Information",
+            "subtext": "<p>Trade name: Bark Bites Natural Dog Treats<\/p><p>Phone number: 0800 978 8065 (9am - 5pm Monday to Friday)<\/p><p>Email: info@barkbites.co.uk<\/p><p>Physical address: 42 Medway, Crowborough, East Sussex, TN6 2DN, United Kingdom<br\/><br\/>We will to respond to all enquires within 2 business days.<\/p>"
+          }
         }
       },
       "block_order": [
-        "935b85ed-0b4e-4b4a-bbf9-23c75dce2d63"
+        "935b85ed-0b4e-4b4a-bbf9-23c75dce2d63",
+        "38cbdc19-ec2f-42ab-bcdd-f53f90db3bfb"
       ],
       "settings": {
         "color_scheme": "accent-1",
