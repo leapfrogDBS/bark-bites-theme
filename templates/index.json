@@ -411,10 +411,20 @@
             "star_color": "#ffd84f",
             "types_to_show": "product"
           }
+        },
+        "31a9a059-645f-4e37-b404-c6445dfb1ede": {
+          "type": "shopify:\/\/apps\/fera\/blocks\/all_reviews\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "heading": "Customer Reviews",
+            "layout": "masonry",
+            "star_color": "#FFD84F",
+            "types_to_show": "both"
+          }
         }
       },
       "block_order": [
-        "03649dab-0c83-45ab-831f-8fc4f8d2c604"
+        "03649dab-0c83-45ab-831f-8fc4f8d2c604",
+        "31a9a059-645f-4e37-b404-c6445dfb1ede"
       ],
       "settings": {
         "include_margins": true
