@@ -179,22 +179,43 @@
         "settings": {
         }
       },
-      "17927225063130601129": {
-        "type": "shopify:\/\/apps\/tt-breadcrumbs-seo-schema\/blocks\/ttSchema\/dda6b26d-4f1a-43c6-a94b-6443ed0f750b",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
         "settings": {
           "button_color": "#000000",
           "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "chat_with_us",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
+        }
+      },
+      "9464613187417757637": {
+        "type": "shopify:\/\/apps\/seokart\/blocks\/home-block\/bd762e20-c054-4e2c-a540-be46bbc23a63",
+        "disabled": false,
+        "settings": {
+          "logo": "",
+          "store_name": "",
+          "business_type": "Organization",
+          "business_image_url": "",
+          "telephone": "",
+          "fax": "",
+          "address1": "",
+          "address2": "",
+          "city": "",
+          "state": "",
+          "postalcode": "",
+          "country": "Afghanistan",
+          "facebook": "",
+          "twitter": "",
+          "instagram": "",
+          "youtube": "",
+          "linkedin": "",
+          "snapchat": "",
+          "pinterest": "",
+          "priceRange_min": "",
+          "priceRange_max": ""
         }
       }
     }
