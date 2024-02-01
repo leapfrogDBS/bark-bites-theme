@@ -217,6 +217,16 @@
           "priceRange_min": "",
           "priceRange_max": ""
         }
+      },
+      "11058699005100807985": {
+        "type": "shopify:\/\/apps\/seokart\/blocks\/product-block\/bd762e20-c054-4e2c-a540-be46bbc23a63",
+        "disabled": false,
+        "settings": {
+          "review_app": "shopify",
+          "brand": "",
+          "price_number": "1",
+          "price_duration": "day"
+        }
       }
     }
   },
