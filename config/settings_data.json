@@ -191,41 +191,10 @@
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
       },
-      "9464613187417757637": {
-        "type": "shopify:\/\/apps\/seokart\/blocks\/home-block\/bd762e20-c054-4e2c-a540-be46bbc23a63",
+      "17927225063130601129": {
+        "type": "shopify:\/\/apps\/tt-breadcrumbs-seo-schema\/blocks\/ttSchema\/dda6b26d-4f1a-43c6-a94b-6443ed0f750b",
         "disabled": false,
         "settings": {
-          "logo": "",
-          "store_name": "",
-          "business_type": "Organization",
-          "business_image_url": "",
-          "telephone": "",
-          "fax": "",
-          "address1": "",
-          "address2": "",
-          "city": "",
-          "state": "",
-          "postalcode": "",
-          "country": "Afghanistan",
-          "facebook": "",
-          "twitter": "",
-          "instagram": "",
-          "youtube": "",
-          "linkedin": "",
-          "snapchat": "",
-          "pinterest": "",
-          "priceRange_min": "",
-          "priceRange_max": ""
-        }
-      },
-      "11058699005100807985": {
-        "type": "shopify:\/\/apps\/seokart\/blocks\/product-block\/bd762e20-c054-4e2c-a540-be46bbc23a63",
-        "disabled": false,
-        "settings": {
-          "review_app": "shopify",
-          "brand": "",
-          "price_number": "1",
-          "price_duration": "day"
         }
       }
     }
