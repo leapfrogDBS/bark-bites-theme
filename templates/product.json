@@ -3,6 +3,17 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "fera_product_reviews_summary_qjMqpW": {
+          "type": "shopify:\/\/apps\/fera\/blocks\/product_reviews_summary\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#000000",
+            "size": 16,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -24,16 +35,6 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
-          }
-        },
-        "a0b2c2a1-43a6-4193-94f3-a4678f2f5a5e": {
-          "type": "shopify:\/\/apps\/paywhirl\/blocks\/paywhirl-plan-selector\/41e95d60-82cf-46e8-84de-618d7e4c37b7",
-          "settings": {
-            "font_scale": 100,
-            "theme": "default",
-            "selling_plans_first": false,
-            "theme_color": "#334FB4",
-            "product": "{{product}}"
           }
         },
         "quantity_selector": {
@@ -61,11 +62,11 @@
         }
       },
       "block_order": [
+        "fera_product_reviews_summary_qjMqpW",
         "vendor",
         "title",
         "price",
         "variant_picker",
-        "a0b2c2a1-43a6-4193-94f3-a4678f2f5a5e",
         "quantity_selector",
         "buy_buttons",
         "description",
