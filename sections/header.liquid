@@ -27,9 +27,6 @@
 
 <noscript>{{ 'component-list-menu.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-search.css' | asset_url | stylesheet_tag }}</noscript>
-<a href="#swym-wishlist" class="swym-wishlist">
-  <i aria-hidden="true" focusable="false" role="presentation" class="icon icon-swym-wishlist"></i>
-</a>
 <noscript>{{ 'component-menu-drawer.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-cart-notification.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-cart-items.css' | asset_url | stylesheet_tag }}</noscript>
@@ -742,6 +739,10 @@
             {% render block %}
         {%- endcase -%}
       {%- endfor -%}
+      
+      <a href="#swym-wishlist" class="swym-wishlist">
+        <i aria-hidden="true" focusable="false" role="presentation" class="icon icon-swym-wishlist"></i>
+      </a>
 
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
