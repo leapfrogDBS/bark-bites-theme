@@ -42,17 +42,17 @@
           "settings": {
           }
         },
-        "custom_liquid_q6c3YR": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"ultimate-badges\"><\/div>"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_q6c3YR": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ultimate-badges\"><\/div>"
           }
         },
         "description": {
@@ -88,8 +88,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "custom_liquid_q6c3YR",
         "buy_buttons",
+        "custom_liquid_q6c3YR",
         "description",
         "share",
         "text_d8y3Nk",
