@@ -42,6 +42,12 @@
           "settings": {
           }
         },
+        "custom_liquid_q6c3YR": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ultimate-badges\"><\/div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -82,6 +88,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "custom_liquid_q6c3YR",
         "buy_buttons",
         "description",
         "share",
