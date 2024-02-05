@@ -59,6 +59,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "fera_product_customer_media_BEUyEA": {
+          "type": "shopify:\/\/apps\/fera\/blocks\/product_customer_media\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "heading": "Customer Photos & Videos",
+            "when_no_media": "hide"
+          }
         }
       },
       "block_order": [
@@ -70,7 +77,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "fera_product_customer_media_BEUyEA"
       ],
       "settings": {
         "enable_sticky_info": true,
