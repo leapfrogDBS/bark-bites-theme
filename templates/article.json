@@ -6,7 +6,7 @@
         "featured_image": {
           "type": "featured_image",
           "settings": {
-            "image_height": "adapt"
+            "image_height": "small"
           }
         },
         "title": {
@@ -146,7 +146,7 @@
           "settings": {
             "heading": "Customer Reviews",
             "layout": "grid",
-            "star_color": "#FFD84F",
+            "star_color": "#ffd84f",
             "types_to_show": "both"
           }
         }
