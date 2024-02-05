@@ -60,11 +60,18 @@
             "share_label": "Share"
           }
         },
-        "fera_product_customer_media_BEUyEA": {
-          "type": "shopify:\/\/apps\/fera\/blocks\/product_customer_media\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+        "text_d8y3Nk": {
+          "type": "text",
           "settings": {
-            "heading": "Customer Photos & Videos",
-            "when_no_media": "hide"
+            "text": "<a href=\"https:\/\/barkbites.co.uk\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">Shipping Policy<\/a>",
+            "text_style": "body"
+          }
+        },
+        "text_fmRHmK": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"https:\/\/barkbites.co.uk\/policies\/refund-policy\" target=\"_blank\" title=\"Refunds & Returns\">Refunds & Returns<\/a>",
+            "text_style": "body"
           }
         }
       },
@@ -78,7 +85,8 @@
         "buy_buttons",
         "description",
         "share",
-        "fera_product_customer_media_BEUyEA"
+        "text_d8y3Nk",
+        "text_fmRHmK"
       ],
       "settings": {
         "enable_sticky_info": true,
