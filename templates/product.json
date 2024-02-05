@@ -60,12 +60,6 @@
             "custom_liquid": "<div class=\"ultimate-badges\"><\/div>"
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "text_d8y3Nk": {
           "type": "text",
           "settings": {
@@ -91,7 +85,6 @@
         "quantity_selector",
         "buy_buttons",
         "custom_liquid_q6c3YR",
-        "share",
         "text_d8y3Nk",
         "text_fmRHmK"
       ],
