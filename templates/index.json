@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "Proudly offering Natural Treats that stand out for their quality, crafted exclusively from British and EU-approved ingredients. Our selection is 100% natural, grain-free, and rawhide-free, providing not just wholesome goodness but also supporting local farmers and the UK meat industry.",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
